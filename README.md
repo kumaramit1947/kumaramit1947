@@ -1,4 +1,4 @@
-<img align="center" alt="Natraj" height="300" width="80%" src="https://wallpapercave.com/wp/wp11244495.jpg" />
+<img align="center" alt="Natraj" height="400" width="100%" src="https://wallpapercave.com/wp/wp11244495.jpg" />
 <h1 align="center">Kumar Amit</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
