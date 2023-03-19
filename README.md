@@ -9,15 +9,11 @@
 
 - 🌱 I’m currently learning **React, Redux, Material UI, Responsive designs, Context API, Frontend Design Principles**
 
-- 📝 I write articles on [https://www.showwcase.com/kumaramit1947](https://www.showwcase.com/kumaramit1947)
+- 📝 Showwcase Profile:  [https://www.showwcase.com/kumaramit1947](https://www.showwcase.com/kumaramit1947)
 
 - 💬 Ask me about **Javascript, React, HTML, CSS**
 
 - 📫 How to reach me **kumaramitg1947@gmail.com**
-
-
-## Important Repositories:
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
