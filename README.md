@@ -6,15 +6,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaramit1947&label=Profile%20views&color=0e75b6&style=flat" alt="kumaramit1947" /> </p>
 
-- 🔭 I’m currently working on **Balance Tracker Webapp**
 
-- 🌱 I’m currently learning **Redux, Material UI, Frontend Design Principles**
+- 🌱 I’m currently learning **React, Redux, Material UI, Responsive designs, Context API, Frontend Design Principles**
 
 - 📝 I write articles on [https://www.showwcase.com/kumaramit1947](https://www.showwcase.com/kumaramit1947)
 
 - 💬 Ask me about **Javascript, React, HTML, CSS**
 
 - 📫 How to reach me **kumaramitg1947@gmail.com**
+
+
+## Important Repositories:
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
