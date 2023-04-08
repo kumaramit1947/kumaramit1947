@@ -33,9 +33,8 @@
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaramit1947&theme=shades-of-purple&show_icons=true&locale=en&layout=compact" alt="kumaramit1947" /></div>
 </br>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kumaramit1947&theme=shades-of-purple&show_icons=true&locale=en" alt="kumaramit1947" />
-
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kumaramit1947&theme=shades-of-purple&show_icons=true&locale=en" alt="kumaramit1947" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumaramit1947&theme=shades-of-purple" alt="kumaramit1947" />
 </div>
 
