@@ -1,4 +1,4 @@
-![Vasudhaiv Kutumbakam Cover](https://user-images.githubusercontent.com/39863626/230668711-1d40ebc2-e90f-4aa8-9ab3-59206ac0786d.png)
+![Vasudhaiv Cover 2](https://user-images.githubusercontent.com/39863626/230785426-a30a08de-d96f-4655-a318-4e6f1dbfe724.png)
 
 <h1 align="center">Kumar Amit</h1>
 <h3 align="center">Software Developer from India</h3>
