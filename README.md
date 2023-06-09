@@ -9,8 +9,6 @@
 </div>
 
 - <img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" height="20" width="20" alt="Gmail" /> <span height="50px">kumaramitg1947@gmail.com</span>
-- <a href="https://www.showwcase.com/kumaramit1947" target="_blank"><img src="https://media.licdn.com/dms/image/C4E0BAQEQ8GtXpihTlA/company-logo_200_200/0/1633746807779?e=2147483647&v=beta&t=Q78zCmTAjAG1dY08IB6YfD2zCOfrpWSqsvKqlnm1agU" height="20" width="20" alt="Showwcase" /> Visit Showwcase Profile</a> <span> and have a look at my projects' lifecycle.</span>
-
 - 🌱 I’m currently learning **Redux, Frontend Design Principles**
 - 💬 Ask me about **Javascript, React, HTML, CSS, Java, Data Structures and Algorithms**
 - 🏆 I have got **100 days** of Streak Badge at Leetcode
